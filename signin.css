@@ -70,7 +70,7 @@ body {
 
 .nav-masthead .active {
   color: #fff;
-  border-bottom-color: #fff;
+  border-bottom-color: #02182B;
 }
 
 @media (min-width: 48em) {
@@ -98,6 +98,6 @@ body {
 /*
  * Footer
  */
-.mastfoot {
-  color: #02182B; 
+.mastfoot.inner {
+  color: #02182B !important; 
 }
