@@ -686,9 +686,9 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   margin:0 45px 0 40px;
 }
 .theme-menu-one .header-right-widget .language-switcher .dropdown-menu {background:#fff;}
-.theme-menu-one .header-right-widget .language-switcher .dropdown-toggle::after {color: #233D63;}
-.theme-menu-one .header-right-widget .call-us {font-size: 20px;color: #A2ADBD;}
-.theme-menu-one .header-right-widget .call-us a {font-size: 24px;margin-left: 15px;}
+.theme-menu-one .header-right-widget .language-switcher .dropdown-toggle::after {color: #02182B;}
+.theme-menu-one .header-right-widget .call-us {font-size: 18px;color: #02182B;}
+.theme-menu-one .header-right-widget .call-us a {font-size: 18px; color: #0B4F6C; margin-right: 15px; margin-left: 5px;}
 /*----------------- SASS MENU ---------------------*/
 .theme-menu-one.d-align-item .navbar-nav .nav-item:hover .nav-link,
 .theme-menu-one.d-align-item .navbar-nav .nav-item.active .nav-link,
