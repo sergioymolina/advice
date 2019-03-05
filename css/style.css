@@ -462,7 +462,7 @@ body .line-button-two {
 }
 body .line-button-two:hover,.agn-our-pricing .table-wrapper .pr-column:hover .line-button-two {
   color: #fff;
-  box-shadow: 0px 13px 28px 0px rgba(163, 48, 53, 0.25);
+   
 }
 body .white-shdw-button {
   text-transform: capitalize;
@@ -470,7 +470,7 @@ body .white-shdw-button {
   display: block;
   text-align: center;
   font-size: 18px;
-  box-shadow: 0px 10px 25px 0px rgba(123,147,171,0.15);
+ 
   border-radius: 3px;
   padding: 0 33px;
   background: #fff;
@@ -480,7 +480,7 @@ body .white-shdw-button .icon {
   vertical-align: middle;
   margin-left: 10px;
 }
-body .white-shdw-button:hover {color: #fff;box-shadow: 0px 13px 28px 0px rgba(163, 48, 53, 0.25);}
+body .white-shdw-button:hover {color: #fff;  }
 body .dark-button-one {
   font-family: 'CachetStd-Medium';
   line-height: 50px;
@@ -1736,7 +1736,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 }
 .agn-our-gallery .main-wrapper .view-gallery:hover {
   color: #fff;
-  box-shadow: 0px 13px 28px 0px rgba(163, 48, 53, 0.25);
+   
 }
 .agn-our-gallery .owl-theme .owl-nav [class*=owl-] {
   background: transparent;
@@ -7155,7 +7155,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   color: #fff;
   padding: 0 15px;
   border-radius: 3px;
-  box-shadow: 0px 10px 25px 0px rgba(123,147,171,0.15);
+ 
 }
 #contact-form .form-group .help-block li {position: relative;}
 #contact-form .form-group .help-block li:before {
@@ -7669,7 +7669,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 .theme-counter-three .single-counter-box {
   text-align: center;
   background: #fff;
-  box-shadow: 0px 10px 25px 0px rgba(123,147,171,0.15);
+ 
   padding: 40px 5px 50px;
   border-radius: 5px;
   margin-bottom: 40px;
